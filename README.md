@@ -1,1 +1,4 @@
-# build-your-own-os
+# CoCoOS - Modern OS 
+
+## Description
+CoCoOS is a Hobby OS Project focused for Modern Systems.
